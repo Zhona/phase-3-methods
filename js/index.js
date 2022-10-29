@@ -30,7 +30,7 @@ function greetWithDefault(name = "programmer") {
 }
 
 /*
-  You should be able to call this function with two arguments and get back its return value:
+  You should be able to call this function with two arguments and get ruby lib/pry_is_awesome.rbback its return value:
   const sum = add(1, 2);
   console.log(sum);
   => 3
